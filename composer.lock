@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b771b87413c69c997314797bb02e7571",
+    "packages": [
+        {
+            "name": "liesauer/simple-http-client",
+            "version": "v1.4.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/liesauer/SimpleHttpClient.git",
+                "reference": "9ada246ce2ea70a5f0e0035990dba3757f008be3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/liesauer/SimpleHttpClient/zipball/9ada246ce2ea70a5f0e0035990dba3757f008be3",
+                "reference": "9ada246ce2ea70a5f0e0035990dba3757f008be3",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "ext-curl": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "liesauer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "SimpleHttpClient",
+            "support": {
+                "issues": "https://github.com/liesauer/SimpleHttpClient/issues",
+                "source": "https://github.com/liesauer/SimpleHttpClient/tree/v1.4.5"
+            },
+            "time": "2020-03-23T02:46:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}

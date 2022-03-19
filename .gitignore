@@ -1,5 +1,9 @@
 .vs
+.vscode
 
 obj
 bin
 launchSettings.json
+
+/vendor/
+/src/config.php

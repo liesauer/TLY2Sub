@@ -1,0 +1,13 @@
+{
+    "name": "liesauer/tly2sub",
+    "type": "project",
+    "authors": [
+        {
+            "name": "LiesAuer",
+            "email": "liesauer@liesauer.net"
+        }
+    ],
+    "require": {
+        "liesauer/simple-http-client": "^1.4"
+    }
+}
